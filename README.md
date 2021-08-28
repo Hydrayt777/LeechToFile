@@ -26,7 +26,7 @@
 ## Installing
 ## Heroku
 
-(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydrayt777/Music-DL-Bot-2.git/tree/main)
+(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydrayt777/LeechToFile.git/tree/main)
 
 ### The Easy Way
 
